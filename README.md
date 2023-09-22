@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, i'm Halil
+
+## My tech stack
 
 <div class="display: 'flex'; justify-content: 'center';">
   <img src="https://github.com/hal-efecan/hal-efecan/assets/54181515/3bcec8a1-a2a7-4c0d-a064-1dfe27669507" width="100" height="100">
@@ -14,7 +16,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
-  My medium how to blogs
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
