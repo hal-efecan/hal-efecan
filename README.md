@@ -2,7 +2,7 @@
 
 ### My Tech Stack
 
-<img src="https://www.typescriptlang.org/images/branding/logo-grouping.svg" />
+<img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript" />
 
 <!--
 **hal-efecan/hal-efecan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
