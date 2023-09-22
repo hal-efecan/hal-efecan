@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript" />
+![image](https://github.com/hal-efecan/hal-efecan/assets/54181515/21bdd5d3-7b1e-4252-a34b-769f2c7897c2)
+
 
 <!--
 **hal-efecan/hal-efecan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
