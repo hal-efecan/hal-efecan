@@ -1,8 +1,10 @@
+<head>  
 <style>
   .cont {
   display: "flex";
   }
 </style>
+</head>
 
 ### Hi there 👋
 
