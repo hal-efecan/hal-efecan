@@ -1,6 +1,6 @@
-## Hi there 👋, i'm Halil
+## Hi there 👋
 
-### My tech stack
+#### TECH STACK
 
 <div class="display: 'flex'; justify-content: 'center';">
   <img src="https://github.com/hal-efecan/hal-efecan/assets/54181515/3bcec8a1-a2a7-4c0d-a064-1dfe27669507" width="100" height="100">
