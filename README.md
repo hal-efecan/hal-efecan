@@ -9,7 +9,7 @@
   <img src="https://github.com/hal-efecan/hal-efecan/assets/54181515/21bdd5d3-7b1e-4252-a34b-769f2c7897c2" width="100" height="100">
   <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" width="100" height="100">  
   <img src="https://github.com/hal-efecan/hal-efecan/assets/54181515/8d184e96-63d2-4183-bb65-8266d31dbcfb" width="100" height="100">
-  <img src="https://github.com/hal-efecan/hal-efecan/assets/54181515/8ce82024-5c19-47db-8e38-1782a03db339" width="100" height="100">
+
   <img src="https://github.com/hal-efecan/hal-efecan/assets/54181515/f7ebbfdf-7ddc-4a42-bbe9-201e97917195" width="100" height="100">
   <img src="https://github.com/hal-efecan/hal-efecan/assets/54181515/2c714694-b9b3-4eb6-8772-aa1b5f6c9d4b" width="100" height="100">
 </div>
