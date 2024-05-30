@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+<!--
 #### ⚡ MY STACK ⚡
+-->
 
 <div class="display: 'flex'; justify-content: 'center';">
 
